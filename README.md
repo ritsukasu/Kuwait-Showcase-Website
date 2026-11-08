@@ -24,7 +24,7 @@
 
 ## About
 
-Kuwait Country Showcase is a small front-end project created to celebrate the State of Kuwait (دولة الكويت). It presents the country through a simple, clean web page, with respect for its people, its history, and its culture.
+Kuwait Country Showcase Website is a small front-end project created to celebrate the State of Kuwait (دولة الكويت). It presents the country through a simple, clean web page, with respect for its people, its history, and its culture.
 
 Kuwait is a nation on the northwestern shore of the Persian Gulf, known for its warm hospitality, its seafaring and pearl-diving heritage, and the resilience of its people.
 
